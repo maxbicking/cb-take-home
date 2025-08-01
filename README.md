@@ -21,7 +21,7 @@ This repository contains a Jupyter notebook `GLUED_Analysis.ipynb` that explores
     * Correlates national GDP (World Bank) with university enrollment 
     * Pearson = 0.68, R Squared = 0.46
  
-5. **Conclusion & Next Steps** 
+5. **Conclusions & Next Steps** 
     * Include additional data sources like UN, IMF, and OECD
     * Cluster countries/regions/universities (K-means) to find peer groups 
     * Normalize data for population
