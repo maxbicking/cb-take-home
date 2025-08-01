@@ -5,7 +5,6 @@
 This repository contains a Jupyter notebook `GLUED_Analysis.ipynb` that explores the Global Longitudinal University Enrollment Dataset (GLUED). The dataset tracks estimated student counts for roughly 17,000 universities in 194 countries from 1950 to 2020 in five-year intervals. 
  
 ## Table of Contents
- 
 1. **Imports and Data Cleansing** 
     * Loads `enrollments.csv` and `Countries GDP 1960-2020.csv` directly from CB's public repo
     * Scrubs important columns of unwanted characters and encoding errors
